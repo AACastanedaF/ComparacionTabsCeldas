@@ -2,7 +2,7 @@
 Este código esta pensando para usarse como macro de Excel.
 
 ## Características:
-1. Se comienza pidiendo la selección de dos archivos de excel (Uno "viejo" y otro "nuevo". 
+1. Se comienza pidiendo la selección de dos archivos de excel Uno "viejo" y otro "nuevo". 
 2. El programa compara el número de hojas con la que cuentan ambos archivos de excel y muestra si se tiene el mismo número de hojas o son distintas.
 3. Compara el nombre de los archivos de ambos exceles y los que solo se encuentren en un solo archivo aparecerán con la pestaña de color "azul verdoso".
 4. Finalmente, compara los archivos con el mismo nombre y colorea las celdas de color "magenta" aquellas celdas que sean distintas en el archivo "viejo" respecto al "nuevo". Las celdas se colorean en el archivo "nuevo".
